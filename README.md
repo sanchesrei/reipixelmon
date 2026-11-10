@@ -1,4 +1,4 @@
-# 👑 Reimon Cobbleverse - Guia de Instalação do Modpack
+# 👑 Reimon PixelmonTrinity - Guia de Instalação do Modpack
 
 Bem-vindo ao guia oficial de instalação do **Reimon Cobbleverse**! Siga o passo a passo abaixo de acordo com o launcher que você utiliza (**TLauncher** ou **Prism Launcher**).
 
